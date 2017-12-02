@@ -8,5 +8,5 @@ import sys
 if __name__ == '__main__':
     print('''hello dangerous world
     getting
-    rad!''')
+    rad on multiple platforms!''')
     sys.exit(0)
