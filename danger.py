@@ -1,8 +1,12 @@
 #!env python3
 # -*- coding: utf-8 -*-
 
+'''This module is dangerous!'''
+
 import sys
-print('''hello dangerous world
-getting
-rad!''')
-sys.exit(0)
+
+if __name__ == '__main__':
+    print('''hello dangerous world
+    getting
+    rad!''')
+    sys.exit(0)
