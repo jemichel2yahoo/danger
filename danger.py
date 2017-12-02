@@ -10,4 +10,4 @@ if __name__ == '__main__':
     print('''hello dangerous world
     getting
     rad on multiple platforms!''')
-    sys.exit(0)
+    sys.exit(0);
