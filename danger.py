@@ -1,5 +1,6 @@
-#!/usr/bin/python3
+#!env python3
 # -*- coding: utf-8 -*-
+
 import sys
 print('''hello dangerous world
 getting
